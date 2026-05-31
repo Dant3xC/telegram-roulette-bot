@@ -1,0 +1,9 @@
+node_modules/
+dist/
+ruleta.db
+ruleta.db-shm
+ruleta.db-wal
+.env
+nul
+# Local Pi runtime state
+.atl/
