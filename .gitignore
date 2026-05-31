@@ -7,3 +7,6 @@ ruleta.db-wal
 nul
 # Local Pi runtime state
 .atl/
+# AI/IDE tools (personal config)
+.agents/
+.continue/
