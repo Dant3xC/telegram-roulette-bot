@@ -10,3 +10,4 @@ nul
 # AI/IDE tools (personal config)
 .agents/
 .continue/
+skills-lock.json
